@@ -1,2 +1,5 @@
-# COMP9444-codes
-Code written as part of Neural Networks and Deep Learning course at UNSW
+## Assignment-1
+Gradient Descent and PyTorch
+
+## Assignment-2
+Recurrent Networks and Sentiment Classification
